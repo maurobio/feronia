@@ -1,6 +1,20 @@
 # Feronia
 Builds biodiversity databases from species checklists.
 
+Data are harvested from the following sources:
+
+Catalogue of Life: www.catalogueoflife.org (bibliographic references, common names, synonyms)
+
+Encyclopedia of Life: eol.org (bibliographic references)
+
+IUCN Red List: iucnredlist.org (conservation status, habitats)
+
+Global Biodiversity Information Facility: www.gbif.org (occurrence records)
+
+National Center for Biotechnology Information: www.ncbi.nlm.nih.gov (biomolecular sequences)
+
+Wikipedia: www.wikipedia.org (text notes)
+
 (C) 2016 by Mauro J. Cavalcanti                     
                                                                                
 This program is free software; you can redistribute it and/or modify         
