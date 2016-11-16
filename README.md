@@ -5,9 +5,9 @@ Data are harvested from the following sources:
 
 Catalogue of Life: www.catalogueoflife.org (bibliographic references, common names, synonyms)
 
-Encyclopedia of Life: eol.org (bibliographic references)
+Encyclopedia of Life: www.eol.org (bibliographic references)
 
-IUCN Red List: iucnredlist.org (conservation status, habitats)
+IUCN Red List: www.iucnredlist.org (conservation status, habitats)
 
 Global Biodiversity Information Facility: www.gbif.org (occurrence records)
 
