@@ -496,7 +496,7 @@ class MainWindow(QtGui.QMainWindow):
         
         SEARCH_BASE = 'http://apiv3.iucnredlist.org/api/v3/'
         SEARCH_SPECIES = "species/"
-        TOKEN = "12f4d4a3866308b4acb0af4cea03f86004bf736aa9be5bd18e12004f483181b2"
+        TOKEN = "<YOUR_KEY_HERE>"
         
         category = {"NE": "Not Evaluated",
                   "DD": "Data Deficient",
@@ -703,7 +703,7 @@ class MainWindow(QtGui.QMainWindow):
         tempfile = "temp.dat"
 
         #-- Always tell NCBI who you are
-        Entrez.email = "maurobio@gmail.com"
+        Entrez.email = "<your_email_here>"
         
         reccount = 0
         sequences = []
@@ -818,7 +818,7 @@ class MainWindow(QtGui.QMainWindow):
         
         SEARCH_BASE = 'http://apiv3.iucnredlist.org/api/v3/'
         SEARCH_HABITATS = "habitats/species/name/"
-        TOKEN = "12f4d4a3866308b4acb0af4cea03f86004bf736aa9be5bd18e12004f483181b2"
+        TOKEN = "<YOUR_KEY_HERE>"
             
         reccount = 0    
         habitats = []
